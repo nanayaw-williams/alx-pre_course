@@ -1,3 +1,3 @@
 # alx-pre_course
-I'm now a ALX Student, this is my first repository as a full-stack engineer
-and its going to be awesome and super cool 
+I'm now a ALX Student, a full-stack designer 
+ 
